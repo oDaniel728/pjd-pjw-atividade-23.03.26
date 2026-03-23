@@ -1,4 +1,12 @@
-.destaque {
+#piscante.destaque {
     border-color: #f2ff00;
     border-width: 2px;
+    margin-left: 0;
+}
+#piscante {
+    border-color: transparent;
+    border-width: 1px;
+    border-radius: 5px;
+    margin-left: 1px;
+    border-style: solid;
 }
